@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Project-Tax, Configuration: Debug Any CPU ------
+1>C:\Users\66sun\source\repos\Project-Tax\Project-Tax\Form1.cs(747,17,747,21): warning CS0168: The variable 'test' is declared but never used
+1>C:\Users\66sun\source\repos\Project-Tax\Project-Tax\Form1.cs(82,16,82,24): warning CS0414: The field 'Form1.lastmove' is assigned but its value is never used
+1>  Project-Tax -> C:\Users\66sun\source\repos\Project-Tax\Project-Tax\bin\Debug\Project-Tax.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

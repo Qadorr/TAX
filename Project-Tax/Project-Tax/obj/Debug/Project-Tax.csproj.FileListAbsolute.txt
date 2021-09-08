@@ -1,0 +1,10 @@
+C:\Users\66sun\source\repos\Project-Tax\Project-Tax\bin\Debug\Project-Tax.exe.config
+C:\Users\66sun\source\repos\Project-Tax\Project-Tax\bin\Debug\Project-Tax.exe
+C:\Users\66sun\source\repos\Project-Tax\Project-Tax\bin\Debug\Project-Tax.pdb
+C:\Users\66sun\source\repos\Project-Tax\Project-Tax\obj\Debug\Project_Tax.Form1.resources
+C:\Users\66sun\source\repos\Project-Tax\Project-Tax\obj\Debug\Project_Tax.Properties.Resources.resources
+C:\Users\66sun\source\repos\Project-Tax\Project-Tax\obj\Debug\Project-Tax.csproj.GenerateResource.cache
+C:\Users\66sun\source\repos\Project-Tax\Project-Tax\obj\Debug\Project-Tax.csproj.CoreCompileInputs.cache
+C:\Users\66sun\source\repos\Project-Tax\Project-Tax\obj\Debug\Project-Tax.exe
+C:\Users\66sun\source\repos\Project-Tax\Project-Tax\obj\Debug\Project-Tax.pdb
+C:\Users\66sun\source\repos\Project-Tax\Project-Tax\obj\Debug\Project-Tax.csprojAssemblyReference.cache
